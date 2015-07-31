@@ -1,0 +1,8 @@
+{
+	"name" : "jqmodules/bootstrap-select",
+	"jqmodules/bootstrap-select" : {
+		"js" : ["js/bootstrap-select.js"],
+		"css" : ["dist/css/bootstrap-select.css"],
+		"on" : ["webmodules/jquery","webmodules/bootstrap/js","webmodules/bootstrap/css"]
+	}
+}
