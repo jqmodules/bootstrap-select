@@ -1,5 +1,5 @@
 {
-	"name": "bootstrap-select",
+	"name": "jqmodules-bootstrap-select",
 	"main": ["less/bootstrap-select.less", "dist/css/bootstrap-select.css", "dist/js/bootstrap-select.js"],
 	"homepage": "http://silviomoreto.github.io/bootstrap-select",
 	"authors": ["silviomoreto"],
