@@ -12,7 +12,7 @@
 	"license": "MIT",
 	"require": {
 		"webmodules/jquery": ">=1.8",
-		"webmodules/bootstrap": ">=3.0.0"
+		"webmodules/bootstrap": "3.*"
 	},
 	"suggest": {
 		"components/jquery": ">=1.8",
